@@ -9,7 +9,7 @@
 <h2>Remotes</h2>
 
 Projet is push on 2 remotes
-[github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitey(https://github.com/ESGI-4eme-annee/projet-git)) https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white(https://gitlab.com/xxcolas/projet-git)
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitey)](https://github.com/ESGI-4eme-annee/projet-git) https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white(https://gitlab.com/xxcolas/projet-git)
 
 <h2>Procedure to push on 2 remotes</h2>
 
