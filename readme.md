@@ -35,11 +35,11 @@ git push
 ![Alt text](src/img/push-on-two-remotes.png?raw=true "Push on two remotes")
 
 
-<h2>statistics</h2>
+<h2>Statistics</h2>
 
-[![issues](https://img.shields.io/github/issues/ESGI-4eme-annee/projet-git.svg)] / [![issues-c](https://img.shields.io/github/issues-closed/ESGI-4eme-annee/projet-git.svg)]
+![issues](https://img.shields.io/github/issues/ESGI-4eme-annee/projet-git.svg) / ![issues-c](https://img.shields.io/github/issues-closed/ESGI-4eme-annee/projet-git.svg)
 ---
-https://img.shields.io/github/issues-pr/{ESGI-4eme-annee}/{projet-git}.svg
+![pr](https://img.shields.io/github/issues-pr/{ESGI-4eme-annee}/{projet-git}.svg)
 ---
 [![commits](https://badgen.net/github/commits/ESGI-4eme-annee/projet-git/main)](https://github.com/ESGI-4eme-annee/projet-git/commits/main?icon=github&color=green)
 ---
