@@ -37,9 +37,9 @@ git push
 
 <h2>Statistics</h2>
 
-![issues](https://img.shields.io/github/issues/ESGI-4eme-annee/projet-git.svg) / ![issues-c](https://img.shields.io/github/issues-closed/ESGI-4eme-annee/projet-git.svg)
+![issues](https://img.shields.io/github/issues/RobinSob94/POCOAuth2.svg) / ![issues-c](https://img.shields.io/github/issues-closed/ESGI-4eme-annee/projet-git.svg)
 ---
 ![pr](https://img.shields.io/github/issues-pr/ESGI-4eme-annee/projet-git.svg)
 ---
-[![commits](https://badgen.net/github/commits/RobinSob94/POCOAuth2/main)]
+![commits](https://badgen.net/github/commits/RobinSob94/POCOAuth2/main)
 ---
