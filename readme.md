@@ -37,7 +37,7 @@ git push
 
 <h2>statistics</h2>
 
-https://img.shields.io/github/issues/ESGI-4eme-annee/projet-git.svg / https://img.shields.io/github/issues-closed/{ESGI-4eme-annee}/{projet-git}.svg
+[![issues](https://img.shields.io/github/issues/ESGI-4eme-annee/projet-git.svg)] / [![issues-c](https://img.shields.io/github/issues-closed/ESGI-4eme-annee/projet-git.svg)]
 ---
 https://img.shields.io/github/issues-pr/{ESGI-4eme-annee}/{projet-git}.svg
 ---
