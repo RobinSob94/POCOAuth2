@@ -41,5 +41,5 @@ git push
 ---
 ![pr](https://img.shields.io/github/issues-pr/ESGI-4eme-annee/projet-git.svg)
 ---
-[![commits](https://badgen.net/github/commits/RobinSob94/POCOAuth2/main)](https://github.com/RobinSob94/POCOAuth2/commits/main?icon=github&color=green)
+![commits](https://badgen.net/github/commits/RobinSob94/POCOAuth2/main)
 ---
