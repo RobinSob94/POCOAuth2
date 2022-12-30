@@ -39,7 +39,7 @@ git push
 
 ![issues](https://img.shields.io/github/issues/ESGI-4eme-annee/projet-git.svg) / ![issues-c](https://img.shields.io/github/issues-closed/ESGI-4eme-annee/projet-git.svg)
 ---
-![pr](https://img.shields.io/github/issues-pr/ESGI-4eme-annee/projet-git.svg)
+![pr](https://img.shields.io/bitbucket/pr/ESGI-4eme-annee/projet-git)
 ---
-[![commits](https://badgen.net/github/commits/RobinSob94/POCOAuth2)]
+![commits](https://badgen.net/github/commits/ESGI-4eme-annee/projet-git)
 ---
